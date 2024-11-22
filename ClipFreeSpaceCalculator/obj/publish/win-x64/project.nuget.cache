@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dtc1W+XM/eI=",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Rahgosha\\ClipFreeSpaceCalculator\\ClipFreeSpaceCalculator\\ClipFreeSpaceCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.6\\microsoft.netcore.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.6\\microsoft.aspnetcore.app.runtime.win-x64.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

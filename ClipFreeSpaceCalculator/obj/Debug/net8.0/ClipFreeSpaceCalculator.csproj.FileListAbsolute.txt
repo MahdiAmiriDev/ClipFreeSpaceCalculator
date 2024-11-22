@@ -1,0 +1,14 @@
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\bin\Debug\net8.0\ClipFreeSpaceCalculator.exe
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\bin\Debug\net8.0\ClipFreeSpaceCalculator.deps.json
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\bin\Debug\net8.0\ClipFreeSpaceCalculator.runtimeconfig.json
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\bin\Debug\net8.0\ClipFreeSpaceCalculator.dll
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\bin\Debug\net8.0\ClipFreeSpaceCalculator.pdb
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\obj\Debug\net8.0\ClipFreeSpaceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\obj\Debug\net8.0\ClipFreeSpaceCalculator.AssemblyInfoInputs.cache
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\obj\Debug\net8.0\ClipFreeSpaceCalculator.AssemblyInfo.cs
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\obj\Debug\net8.0\ClipFreeSpaceCalculator.csproj.CoreCompileInputs.cache
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\obj\Debug\net8.0\ClipFreeSpaceCalculator.dll
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\obj\Debug\net8.0\refint\ClipFreeSpaceCalculator.dll
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\obj\Debug\net8.0\ClipFreeSpaceCalculator.pdb
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\obj\Debug\net8.0\ClipFreeSpaceCalculator.genruntimeconfig.cache
+E:\Projects\Rahgosha\ClipFreeSpaceCalculator\ClipFreeSpaceCalculator\obj\Debug\net8.0\ref\ClipFreeSpaceCalculator.dll
